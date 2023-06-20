@@ -9,7 +9,7 @@
 
 <p>
 <h4>Admin</h4>
-<li><i><a href="https://discord.com/users/id/" target="_blank">EyNoah#1337</a></i></li>
+<li><i><a href="https://discord.com/users/586231322993754119/" target="_blank">EyNoah</a></i></li>
 </p>
 <br>
 <h2>➥ 📞 • Contact us</h2>
