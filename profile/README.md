@@ -13,8 +13,8 @@
 </p>
 <br>
 <h2>➥ 📞 • Contact us</h2>
-<p>Website: <a href="https://meepo.github.io">Meepo.bot</a></p>
-<p>Discord: <a href="https://discord.gg/gtcdcgnGQs">Meepo Support</a></p>
+<p>Website: <a href="https://meepo.github.io">ProLiant</a></p>
+<p>Discord: <a href="https://discord.gg/gtcdcgnGQs">ProLiant Support</a></p>
 <br><br>
 <center>
 <footer>&copy; by EyNoah</footer>
