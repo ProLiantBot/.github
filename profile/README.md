@@ -1,4 +1,4 @@
-# MeepoBot | Discord Bot
+# ProLiant | Discord Bot
 
 <h2>➥ 🙋‍♀️ • Short Description</h2>
 
@@ -14,7 +14,7 @@
 <br>
 <h2>➥ 📞 • Contact us</h2>
 <p>Website: <a href="https://meepo.github.io">Meepo.bot</a></p>
-<p>Discord: <a href="">Meepo Support</a></p>
+<p>Discord: <a href="https://discord.gg/gtcdcgnGQs">Meepo Support</a></p>
 <br><br>
 <center>
 <footer>&copy; by EyNoah</footer>
